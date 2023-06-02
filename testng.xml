@@ -8,7 +8,7 @@
 
 	</listeners>
 	<test thread-count="5" name="Test">
-		<parameter name="browser" value="Firefox"></parameter>
+		<parameter name="browser" value="Chrome"></parameter>
 		<classes>
 			<class name="com.amazon.testcases.TC_Login_001" />
 		</classes>
