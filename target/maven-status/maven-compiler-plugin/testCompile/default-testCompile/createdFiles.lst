@@ -1,0 +1,7 @@
+com\amazon\testcases\BaseClass.class
+com\amazon\testcases\TC_Login_001.class
+com\amazon\pageobject\Home_Page.class
+com\amazon\utilities\ExplicitWait.class
+com\amazon\utilities\ReadConfig.class
+com\amazon\pageobject\Login_page.class
+com\amazon\utilities\Reporting.class
